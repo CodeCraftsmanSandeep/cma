@@ -4,6 +4,8 @@ This repository contains my notes and code from the course "Computational Mathem
 Have interest? 🤔 Then do not forget to check this repo!! 🧑🏻‍🏫
 
 # Resources:
+| name | link |
+|:---|:---|
 | python | https://realpython.com/start-here/ |
 | matplotlib documenation | https://matplotlib.org/stable/index.html |
 | matplotlib pdf | https://matplotlib.org/2.0.2/Matplotlib.pdf |
