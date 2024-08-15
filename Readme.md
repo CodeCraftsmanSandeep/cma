@@ -12,7 +12,7 @@ Have interest? 🤔 Then do not forget to check this repo!! 🧑🏻‍🏫
 
 # Disclaimer
 ```python
-This code was ✍🏻 between January 2024 and May 2024. 
+These codes were ✍🏻 between January 2024 and May 2024. 
 There may be mistakes, and I do not take responsibility if it is used or copied. 
 However, I am happy to receive suggestions and comments.
 ```
