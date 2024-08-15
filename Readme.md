@@ -1,6 +1,7 @@
 # Computational Methods and Applications
+Hi there!  
 This repository contains my notes and code from the course "Computational Mathematics and Applications."  
-Have interest? 🤔 Then don't forget to check this out!!
+Have interest? 🤔 Then do not forget to check this repo!! 🧑🏻‍🏫
 
 # resources:
 - python : https://realpython.com/start-here/ <br/>
